@@ -96,7 +96,7 @@
  /* background: -webkit-gradient(linear, left top, left bottom, from(rgba(22, 22, 22, 0.3)), color-stop(75%, rgba(22, 22, 22, 0.7)), to(#161616)), url("../img/bg-home.jpg");*/
   /*background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%), url("../img/bg-home.jpg");*/
   background: url("../img/Portada.jpg");
-  background-position: center;
+  background-position: center center;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-size: cover;
@@ -443,4 +443,53 @@ font-style: normal;
    font-family: 'Playfair Display' !important;
 
 
+}
+
+/*Pagina Beneficios*/
+.header-gimnasio{
+ background-image:url(../img/header-gimnasio.png);
+ background-repeat: no-repeat;
+ background-position:center center;
+ background-size:cover;
+ height:100vh;
+}
+
+.header-gimnasio h1 {
+  font-family: 'Playfair Display';
+  font-size: 2.5rem;
+  line-height: 2.5rem; 
+  color : #ffffff;
+}
+
+@media (min-width: 768px) {
+  .header-gimnasio h1 {
+    font-size: 4rem;
+    line-height: 4rem;
+  }
+}
+
+@media (min-width: 992px) {
+
+  .header-gimnasio h1 {
+    font-size: 6.5rem;
+    line-height: 6.5rem;
+    
+  }
+  .header-gimnasio h3 {
+    max-width: 30rem;
+    font-size: 1.25rem;
+  }
+}
+/*DEscripcion gym beneficios*/
+.gymbenefits {
+  padding-top: 10rem;
+  background: -webkit-gradient(linear, left top, left bottom, from(#161616), color-stop(75%, rgba(22, 22, 22, 0.9)), to(rgba(22, 22, 22, 0.8)));
+  background: linear-gradient(to bottom, #161616 0%, rgba(22, 22, 22, 0.9) 75%, rgba(22, 22, 22, 0.8) 100%);
+}
+
+.gymbenefits p{
+  
+  font-family: 'Barlow'; 
+  font-size: 1.2rem;
+  
 }

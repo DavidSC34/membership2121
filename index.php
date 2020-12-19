@@ -96,11 +96,11 @@
       <div class="row">
        
               <!-- Green Membership -->
-          <div class="col-lg-6">
+          <div class="col-sm-12 col-md-6 col-lg-4">
             <div class="card mb-5 mb-lg-0">
               <div id="green-benefits" class="card-body text-white">
                 <h5 id="titulo-green" class="text-uppercase text-center">GREEN</h5>
-                <h6 id="precio-beneficios" class="card-price text-center">$100<span class="period">USD</span></h6>
+                <h6 id="precio-beneficios" class="card-price text-center">$100<span class="period">USD  (Valid for North America)</span></h6>
                 <hr>
                 <ul class="fa-ul">
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>WBC Card (ID)</li>
@@ -129,12 +129,30 @@
             </div>
           </div>
           <!-- Green Membership -->
-           <div class="col-lg-6">
+           <div class="col-sm-12 col-md-6 col-lg-4">
             <div class="card mb-5 mb-lg-0">
               <div id="gold-benefits" class="card-body">
                 <h5 id="titulo-gold" class="text-uppercase text-center">GOLD</h5>
-                <h6 id="precio-beneficios" class="card-price text-center">$250<span class="period">USD</span></h6>               
+                <h6 id="precio-beneficios" class="card-price text-center">$250<span class="period">USD (Valid for World Wide)</span></h6>               
                 
+                <hr>
+                <ul class="fa-ul">
+                  <li><span class="fa-li"><i class="fas fa-check"></i></span>WBC Card (ID)</li>
+                  <li><span class="fa-li"><i class="fas fa-check"></i></span>T-Shirt</li>
+                  <li><span class="fa-li"><i class="fas fa-check"></i></span>Patch</li>
+                  <li><span class="fa-li"><i class="fas fa-check"></i></span>Pin</li>
+                  <li><span class="fa-li"><i class="fas fa-check"></i></span>WBC Calendar</li>                
+                </ul>
+                <a class="d-block my-4 text-white"  href="#collapseExample" ><i class="fas fa-info-circle"></i> Show more info </a>
+                <a href="#signup" class="btn btn-block btn-primary text-uppercase js-scroll-trigger">Get Gold Membership</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-12 col-md-6 col-lg-4">
+            <div class="card mb-5 mb-lg-0">
+              <div id="green-benefits" class="card-body text-white">
+                <h5 id="titulo-green" class="text-uppercase text-center">GYM</h5>
+                <h6 id="precio-beneficios" class="card-price text-center">$50<span class="period">USD</span></h6>
                 <hr>
                 <ul class="fa-ul">
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>WBC Card (ID)</li>
@@ -144,21 +162,21 @@
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>WBC Calendar</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Sticker</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Towel</li>
-                  <li><span class="fa-li"><i class="fas fa-check"></i></span>Hat</li>
-                  <li><span class="fa-li"><i class="fas fa-check"></i></span>Ring official guidelines</li>
-                  <li><span class="fa-li"><i class="fas fa-check"></i></span>Reyes keychain</li>
+                  <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Hat</li>
+                  <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Ring official guidelines</li>
+                  <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Reyes keychain</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Best WBC Bouts</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Digital Wallpapers</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Monthly Newsletter</li>
-                  <li><span class="fa-li"><i class="fas fa-check"></i></span>Monthly random kit giveaway</li>
-                  <li><span class="fa-li"><i class="fas fa-check"></i></span>Raffle Tickets</li>
+                  <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Monthly random kit giveaway</li>
+                  <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Raffle Tickets</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Exclusive discounts</li>
-                  <li><span class="fa-li"><i class="fas fa-check"></i></span>WBC Products +20% off</li>
-                  <li><span class="fa-li"><i class="fas fa-check"></i></span>Reyes +20% off</li>
-                  <li><span class="fa-li"><i class="fas fa-check"></i></span>Exclusive offers +20% off</li>
+                  <li><span class="fa-li"><i class="fas fa-check"></i></span>WBC Products 10% off</li>
+                  <li><span class="fa-li"><i class="fas fa-check"></i></span>Reyes 10% off</li>
+                  <li><span class="fa-li"><i class="fas fa-check"></i></span>Exclusive offers 10% off</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>"The Ring" Magazine Subscription</li>
                 </ul>
-                <a href="#signup" class="btn btn-block btn-primary text-uppercase js-scroll-trigger">Get Gold Membership</a>
+                <a href="#signup" class="btn btn-block btn-primary text-uppercase js-scroll-trigger">Get Gym Membership</a>
               </div>
             </div>
           </div>
