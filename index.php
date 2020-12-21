@@ -99,42 +99,9 @@
           <div class="col-sm-12 col-md-6 col-lg-4">
             <div class="card mb-5 mb-lg-0">
               <div id="green-benefits" class="card-body text-white">
-                <h5 id="titulo-green" class="text-uppercase text-center">GREEN</h5>
-                <h6 id="precio-beneficios" class="card-price text-center">$100<span class="period">USD  (Valid for North America)</span></h6>
-                <hr>
-                <ul class="fa-ul">
-                  <li><span class="fa-li"><i class="fas fa-check"></i></span>WBC Card (ID)</li>
-                  <li><span class="fa-li"><i class="fas fa-check"></i></span>T-Shirt</li>
-                  <li><span class="fa-li"><i class="fas fa-check"></i></span>Patch</li>
-                  <li><span class="fa-li"><i class="fas fa-check"></i></span>Pin</li>
-                  <li><span class="fa-li"><i class="fas fa-check"></i></span>WBC Calendar</li>
-                  <li><span class="fa-li"><i class="fas fa-check"></i></span>Sticker</li>
-                  <li><span class="fa-li"><i class="fas fa-check"></i></span>Towel</li>
-                  <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Hat</li>
-                  <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Ring official guidelines</li>
-                  <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Reyes keychain</li>
-                  <li><span class="fa-li"><i class="fas fa-check"></i></span>Best WBC Bouts</li>
-                  <li><span class="fa-li"><i class="fas fa-check"></i></span>Digital Wallpapers</li>
-                  <li><span class="fa-li"><i class="fas fa-check"></i></span>Monthly Newsletter</li>
-                  <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Monthly random kit giveaway</li>
-                  <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Raffle Tickets</li>
-                  <li><span class="fa-li"><i class="fas fa-check"></i></span>Exclusive discounts</li>
-                  <li><span class="fa-li"><i class="fas fa-check"></i></span>WBC Products 10% off</li>
-                  <li><span class="fa-li"><i class="fas fa-check"></i></span>Reyes 10% off</li>
-                  <li><span class="fa-li"><i class="fas fa-check"></i></span>Exclusive offers 10% off</li>
-                  <li><span class="fa-li"><i class="fas fa-check"></i></span>"The Ring" Magazine Subscription</li>
-                </ul>
-                <a href="#signup" class="btn btn-block btn-primary text-uppercase js-scroll-trigger">Get Green Membership</a>
-              </div>
-            </div>
-          </div>
-          <!-- Green Membership -->
-           <div class="col-sm-12 col-md-6 col-lg-4">
-            <div class="card mb-5 mb-lg-0">
-              <div id="gold-benefits" class="card-body">
-                <h5 id="titulo-gold" class="text-uppercase text-center">GOLD</h5>
-                <h6 id="precio-beneficios" class="card-price text-center">$250<span class="period">USD (Valid for World Wide)</span></h6>               
-                
+                <h5  class="titulo-membresia  text-center">GREEN</h5>
+                <p class="subtitle">(for Fans)</p>
+                <h6  class="precio-beneficios card-price text-center">$100<span class="period">USD  (Valid for North America)</span></h6>
                 <hr>
                 <ul class="fa-ul">
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>WBC Card (ID)</li>
@@ -143,42 +110,46 @@
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Pin</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>WBC Calendar</li>                
                 </ul>
-                <a class="d-block my-4 text-white"  href="#collapseExample" ><i class="fas fa-info-circle"></i> Show more info </a>
-                <a href="#signup" class="btn btn-block btn-primary text-uppercase js-scroll-trigger">Get Gold Membership</a>
+                <a class="d-block my-4 text-white"  href="#" ><i class="fas fa-info-circle"></i> Show more info </a>
+                <a id="btn-green" href="#signup" class="btn btn-block btn-primary text-uppercase js-scroll-trigger">Get Green Membership</a>
               </div>
             </div>
           </div>
-          <div class="col-sm-12 col-md-6 col-lg-4">
+          <!-- Gold Membership -->
+           <div class="col-sm-12 col-md-6 col-lg-4">
             <div class="card mb-5 mb-lg-0">
-              <div id="green-benefits" class="card-body text-white">
-                <h5 id="titulo-green" class="text-uppercase text-center">GYM</h5>
-                <h6 id="precio-beneficios" class="card-price text-center">$50<span class="period">USD</span></h6>
+              <div id="gold-benefits" class="card-body">
+                <h5  class="titulo-membresia text-uppercase text-center">GOLD</h5>
+                <p class="subtitle">(for Rings Officials)</p>
+                <h6  class="precio-beneficios card-price text-center">$250<span class="period">USD (Valid for World Wide)</span></h6>               
+                
                 <hr>
                 <ul class="fa-ul">
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>WBC Card (ID)</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>T-Shirt</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Patch</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Pin</li>
-                  <li><span class="fa-li"><i class="fas fa-check"></i></span>WBC Calendar</li>
-                  <li><span class="fa-li"><i class="fas fa-check"></i></span>Sticker</li>
-                  <li><span class="fa-li"><i class="fas fa-check"></i></span>Towel</li>
-                  <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Hat</li>
-                  <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Ring official guidelines</li>
-                  <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Reyes keychain</li>
-                  <li><span class="fa-li"><i class="fas fa-check"></i></span>Best WBC Bouts</li>
-                  <li><span class="fa-li"><i class="fas fa-check"></i></span>Digital Wallpapers</li>
-                  <li><span class="fa-li"><i class="fas fa-check"></i></span>Monthly Newsletter</li>
-                  <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Monthly random kit giveaway</li>
-                  <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Raffle Tickets</li>
-                  <li><span class="fa-li"><i class="fas fa-check"></i></span>Exclusive discounts</li>
-                  <li><span class="fa-li"><i class="fas fa-check"></i></span>WBC Products 10% off</li>
-                  <li><span class="fa-li"><i class="fas fa-check"></i></span>Reyes 10% off</li>
-                  <li><span class="fa-li"><i class="fas fa-check"></i></span>Exclusive offers 10% off</li>
-                  <li><span class="fa-li"><i class="fas fa-check"></i></span>"The Ring" Magazine Subscription</li>
+                  <li><span class="fa-li"><i class="fas fa-check"></i></span>and more...</li>                
                 </ul>
-                <a href="#signup" class="btn btn-block btn-primary text-uppercase js-scroll-trigger">Get Gym Membership</a>
+                <a class="d-block my-4 text-white"  href="#" ><i class="fas fa-info-circle"></i> Show more info </a>
+                <a id="btn-gold" href="#signup" class="btn btn-block btn-primary text-uppercase js-scroll-trigger">Get Gold Membership</a>
               </div>
             </div>
+          </div>
+          <div class="col-sm-12 col-md-6 col-lg-4">
+            <div class="card mb-5 mb-lg-0 card-gym">
+              <div class="card-body gym-benefits">
+                <h5  class="titulo-membresia text-uppercase text-center">GYM</h5>
+                <p>&nbsp;</p>
+                <h6  class="precio-beneficios card-price text-center ">$50<span class="period">USD</span></h6>
+                <hr>
+                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius iure at sit placeat quia corrupti, voluptatum, sequi dicta dolorum, iusto libero rem amet perferendis explicabo a quibusdam magni ipsam quaerat?</p>
+                <a class="d-block my-4 text-dark"  href="#" ><i class="fas fa-info-circle"></i> Show more info </a>
+
+                <a id="btn-gym" href="#signup" class="btn btn-block btn-primary text-uppercase js-scroll-trigger">Get Gym Membership</a>
+              </div><!--gym-benefits-->
+              <img class="img-new-membership" src="img/New.png" alt="Imagen de nueva membresia">
+            </div><!--.card-gym-->
           </div>
 
       </div>
@@ -209,7 +180,7 @@
                       <input type="text" name="lastName" class="form-control" id="lastName" placeholder="" value="" required>
                     </div>
                      <div class="form-group">
-                      <label for="birthdayInput">Birthday </label>
+                      <label for="birthdayInput">Birth of Date </label>
                       <input type="text" name="birthday" class="form-control" id="birthday" placeholder="Pick a date">
                     </div>
                    <div class="form-group">
@@ -313,36 +284,43 @@
                     </div>
                      <div class="form-group">
                       <label for="membresiaInput">Membership Type</label>
-                          <div class="form-check">
+                          <div class="green-opcion form-check">
                             <input class="form-check-input" type="radio" name="membership" id="check-green" value="GREEN">
                             <label class="form-check-label" for="membershipRadios">
                               GREEN
                             </label>
                           </div>
-                          <div class="form-check">
+                          <div class="gold-opcion form-check">
                             <input class="form-check-input" type="radio" name="membership" id="check-gold" value="GOLD" >
                             <label class="form-check-label" for="membershipRadios">
                               GOLD
+                            </label>
+                          </div>
+                          <div class="gym-opcion form-check">
+                            <input class="form-check-input" type="radio" name="membership" id="check-gym" value="GYM" >
+                            <label class="form-check-label" for="membershipRadios">
+                              GYM
                             </label>
                           </div>
                     </div><!--Membership Type-->
                     <div class="form-group">
                       <label for="categoryInput">Boxing Category</label>                     
                       <select name="category" class="form-control" id="category">
-                        <option value="">---Select category---</option>
-                        <option value="Referee">Ring Official - Referee</option>
-                        <option value="Judge">Ring Official - Judge</option>
-                        <option value="Both">Ring Official - Both</option>
-                        <option value="promotor">Promoter</option>
-                        <option value="WBC-Board">WBC Board</option>
-                        <option value="entrenador">Trainer</option>
-                        <option value="aficionado">Fan</option>
-                        <option value="medico">Doctor</option>
-                        <option value="manejador">Manager</option>
-                        <option value="prensa">Media</option>
-                        <option value="supervisor">Supervisor</option>
-                        <option value="boxeador">Boxer</option>
-                        <option value="comisionado">Commissioner</option>
+                        <option value="-1">---Select category---</option>                       
+                          <option value="Referee">Ring Official - Referee</option>
+                          <option value="Judge">Ring Official - Judge</option>
+                          <option value="Both">Ring Official - Both</option>
+                          <option value="promotor">Promoter</option>
+                          <option value="WBC-Board">WBC Board</option>
+                          <option value="entrenador">Trainer</option>
+                          <option value="medico">Doctor</option>
+                          <option value="manejador">Manager</option>
+                          <option value="prensa">Media</option>
+                          <option value="supervisor">Supervisor</option>
+                          <option value="boxeador">Boxer</option>
+                          <option value="comisionado">Commissioner</option>
+                          <option value="gym">Gymnasium</option>
+                          <option value="aficionado">Fan</option>
                       </select>
                     </div>
                    
@@ -384,6 +362,19 @@
                         <input type="image" src="https://www.paypalobjects.com/es_XC/MX/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
                         <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
                      </form>
+                  </div>
+          </div>
+      </div>
+      <div id="pago-paypal-gym" class="container" style="display: none">
+          <div class="row">
+                  <div class="col-md-12 col-lg-8 mx-auto text-center">
+                     <h2 class="text-black mb-5">Processing Gym Membership Paypal Payment</h2>
+                      <form id="form-gym" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                          <input type="hidden" name="cmd" value="_s-xclick">
+                          <input type="hidden" name="hosted_button_id" value="XJ8TEEBVKHULN">
+                          <input type="image" src="https://www.paypal.com/es_XC/MX/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
+                          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                      </form>
                   </div>
           </div>
       </div>
@@ -448,36 +439,7 @@
 
     </div>
   </section>
-<!-- Portfolio Modal 1 -->
-  <div class="portfolio-modal modal fade" id="loginModal" tabindex="-1" role="dialog" aria-labelledby="loginModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-xl" role="document">
-      <div class="modal-content">
-         <div class="modal-header border-bottom-0">
-              <h5 class="modal-title" id="exampleModalLabel">Please fill the blanks</h5>
-              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                <span aria-hidden="true">&times;</span>
-              </button>
-        </div>
-        <form  id="form-login" action="login.php" method="post">
-        <div class="modal-body">
-          <div class="form-group">
-            <label for="email1">Username</label>
-            <input type="text" class="form-control" id="username" name="username" aria-describedby="" placeholder="">
-            
-          </div>
-          <div class="form-group">
-            <label for="password1">Password</label>
-            <input type="password" class="form-control" id="password" name="password" placeholder="Password">
-          </div>
-         
-        </div>
-        <div class="modal-footer border-top-0 d-flex justify-content-center">
-          <button type="submit" class="btn btn-primary"  id="btn-submit" data-dismiss="modal">Submit</button>
-        </div>
-      </form>
-      </div>
-    </div>
-  </div>
+
   <!-- Footer -->
   <footer class="bg-black small text-center text-white-50">
     <img src="img/Footer-01.png" class="img-fluid" alt=""> <br><br><br>
@@ -504,7 +466,7 @@
   <script type='text/javascript'>
  
      $(document).ready(function(){
-
+     
 
       $('#birthday').pickadate({
           formatSubmit: 'yyyy/mm/dd',
@@ -513,24 +475,116 @@
          
       });
 
+      $('#btn-green').on('click',function(){
+          // console.log('BOTON GREEN');          
+          $("#check-green").prop('checked', true);
+          filtarOpsGreen();
+      });
+      $('#btn-gold').on('click',function(){     
+          
+          $("#check-gold").prop('checked', true);
+          filtrarOpsGold();
+      });
+
+      
+      $('#btn-gym').on('click',function(){
+      
+            $("#check-gym").prop('checked', true);
+            filtarOpsGym();
+      });
+
+      //Evetnos para los checboxes
+      //CHECK GREEN
+      $('#check-green').on('click',function(){      
+         
+         filtarOpsGreen();
+      });
+        //CHECK GOLD
+      $('#check-gold').on('click',function(){
+          filtrarOpsGold();
+      });
+        //CHECK GYM
+      $('#check-gym').on('click',function(){
+            filtarOpsGym();
+      });
+    
+    function filtarOpsGreen(){
+      $('select#category option').each(function(index,element){
+         
+           if(element.value=="-1"){
+            // console.log('option green');
+            element.selected = true;
+            element.classList.remove('oculto');
+          }
+          
+          if(element.value == 'Referee' || element.value == 'Judge' 
+          || element.value == 'Both' )
+            {
+                element.classList.add('oculto');
+            }else{
+
+                element.classList.remove('oculto');
+            }
+         
+          });
+        
+
+    }
+
+    function filtrarOpsGold(){
+      $('select#category option').each(function(index,element){
+           if(element.value=="-1"){
+            // console.log('option gold');
+            element.selected = true;
+            element.classList.remove('oculto');
+          }
+          
+          if(element.value == 'Referee' || element.value == 'Judge' 
+          || element.value == 'Both' )
+              {
+                  element.classList.remove('oculto');
+              }else{
+                 element.classList.add('oculto');
+              }
+          });
+         
+    }
+     function filtarOpsGym(){
+      $('select#category option').each(function(index,element){
+          if(element.value=="-1"){
+            // console.log('option gym');
+            element.selected = true;
+            element.classList.remove('oculto');
+          }
+          if(element.value == 'gym'){
+                  element.classList.remove('oculto');
+          }else{
+                element.classList.add('oculto');
+          }
+          
+      });
+     
+
+     
+     }
+
         /* Obtener la categoria seleccionada*/
 
-          $("select#category").change(function(){
+        //   $("select#category").change(function(){
 
-        var categoria = $(this).children("option:selected").val();
-        //console.log("You have selected the country - " + categoria);
-          if ( categoria =='Referee' || categoria =='Both' || categoria =='Judge') {
+        // var categoria = $(this).children("option:selected").val();
+        // //console.log("You have selected the country - " + categoria);
+        //   if ( categoria =='Referee' || categoria =='Both' || categoria =='Judge') {
 
-              $("#check-gold").prop('checked', true);
-              $("#check-green").prop('disabled', true);
-          }else{
-               $("#check-green").prop('disabled', false);
-               $("#check-green").prop('checked', true);
-            }
+        //       $("#check-gold").prop('checked', true);
+        //       $("#check-green").prop('disabled', true);
+        //   }else{
+        //        $("#check-green").prop('disabled', false);
+        //        $("#check-green").prop('checked', true);
+        //     }     
         
-        
 
-         });
+        //  });
 
            $("#btn-submit").click(function(event) {
                 
@@ -569,6 +623,7 @@
                     var data = $('#form-ship').serialize();
                       $( "#pago-paypal-gold" ).hide(); 
                       $( "#pago-paypal-green" ).hide();
+                      $( "#pago-paypal-gym" ).hide();
                    // console.log(data);
                     $.ajax({
                             type: "POST",
@@ -576,16 +631,19 @@
                             data: data,
                             success: function(response){
                               var msg = JSON.parse(response);
-                              console.log(msg.respuesta);
+                              // console.log(msg.respuesta);
                               if (msg.respuesta) {
                                     alert("Your info has been send successfully");
                                     if (msg.tipo_membresia =='GOLD') {
 
                                        $( "#pago-paypal-gold" ).show();
                                        $( "#form-gold" ).submit();
-                                    }else{
+                                    }else if(msg.tipo_membresia =='GREEN'){
                                        $( "#pago-paypal-green" ).show();
                                        $( "#form-green" ).submit();
+                                    }else{
+                                       $( "#pago-paypal-gym" ).show();
+                                       $( "#form-gym" ).submit();
                                     }
                              
                               }
