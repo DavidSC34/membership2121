@@ -110,7 +110,7 @@
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Pin</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>WBC Calendar</li>                
                 </ul>
-                <a class="d-block my-4 text-white"  href="#" ><i class="fas fa-info-circle"></i> Show more info </a>
+                <a class="d-block my-4 text-white"  href="sample.pdf" target="_blank"><i class="fas fa-info-circle"></i> Show more info </a>
                 <a id="btn-green" href="#signup" class="btn btn-block btn-primary text-uppercase js-scroll-trigger">Get Green Membership</a>
               </div>
             </div>
@@ -131,7 +131,7 @@
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Pin</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>and more...</li>                
                 </ul>
-                <a class="d-block my-4 text-white"  href="#" ><i class="fas fa-info-circle"></i> Show more info </a>
+                <a class="d-block my-4 text-white"  href="sample.pdf" target="_blank"><i class="fas fa-info-circle"></i> Show more info </a>
                 <a id="btn-gold" href="#signup" class="btn btn-block btn-primary text-uppercase js-scroll-trigger">Get Gold Membership</a>
               </div>
             </div>
@@ -144,7 +144,7 @@
                 <h6  class="precio-beneficios card-price text-center ">$50<span class="period">USD</span></h6>
                 <hr>
                  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius iure at sit placeat quia corrupti, voluptatum, sequi dicta dolorum, iusto libero rem amet perferendis explicabo a quibusdam magni ipsam quaerat?</p>
-                <a class="d-block my-4 text-dark"  href="#" ><i class="fas fa-info-circle"></i> Show more info </a>
+                <a class="d-block my-4 text-dark"  href="sample.pdf" target="_blank"><i class="fas fa-info-circle"></i> Show more info </a>
 
                 <a id="btn-gym" href="#signup" class="btn btn-block btn-primary text-uppercase js-scroll-trigger">Get Gym Membership</a>
               </div><!--gym-benefits-->
