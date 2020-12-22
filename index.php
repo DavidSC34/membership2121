@@ -144,7 +144,7 @@
                 <h6  class="precio-beneficios card-price text-center ">$1000<span class="period">USD</span></h6>
                 <hr>
                  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius iure at sit placeat quia corrupti, voluptatum, sequi dicta dolorum, iusto libero rem amet perferendis explicabo a quibusdam magni ipsam quaerat?</p>
-                <a class="d-block my-4 text-dark"  href="sample.pdf" target="_blank"><i class="fas fa-info-circle"></i> Show more info </a>
+                <a class="d-block my-4 text-dark"  href="GYM_Membership.pdf" target="_blank"><i class="fas fa-info-circle"></i> Show more info </a>
 
                 <a id="btn-gym" href="#signup" class="btn btn-block btn-primary text-uppercase js-scroll-trigger">Get Gym Membership</a>
               </div><!--gym-benefits-->
