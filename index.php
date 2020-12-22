@@ -141,7 +141,7 @@
               <div class="card-body gym-benefits">
                 <h5  class="titulo-membresia text-uppercase text-center">GYM</h5>
                 <p>&nbsp;</p>
-                <h6  class="precio-beneficios card-price text-center ">$50<span class="period">USD</span></h6>
+                <h6  class="precio-beneficios card-price text-center ">$1000<span class="period">USD</span></h6>
                 <hr>
                  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius iure at sit placeat quia corrupti, voluptatum, sequi dicta dolorum, iusto libero rem amet perferendis explicabo a quibusdam magni ipsam quaerat?</p>
                 <a class="d-block my-4 text-dark"  href="sample.pdf" target="_blank"><i class="fas fa-info-circle"></i> Show more info </a>
@@ -342,7 +342,7 @@
           <div class="row">
                   <div class="col-md-12 col-lg-8 mx-auto text-center">
                      <h2 class="text-black mb-5">Processing Green Membership Paypal Payment</h2>
-                      <form id="form-green" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                      <form id="form-green" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
                           <input type="hidden" name="cmd" value="_s-xclick">
                           <input type="hidden" name="hosted_button_id" value="XJ8TEEBVKHULN">
                           <input type="image" src="https://www.paypal.com/es_XC/MX/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
@@ -356,7 +356,7 @@
           <div class="row">
                   <div class="col-md-12 col-lg-8 mx-auto text-center">
                      <h2 class="text-black mb-5">Processing Gold Membership Paypal Payment</h2>
-                     <form id="form-gold" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                     <form id="form-gold" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
                         <input type="hidden" name="cmd" value="_s-xclick">
                         <input type="hidden" name="hosted_button_id" value="FA3JLE8CZAVNL">
                         <input type="image" src="https://www.paypalobjects.com/es_XC/MX/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
@@ -369,12 +369,13 @@
           <div class="row">
                   <div class="col-md-12 col-lg-8 mx-auto text-center">
                      <h2 class="text-black mb-5">Processing Gym Membership Paypal Payment</h2>
-                      <form id="form-gym" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-                          <input type="hidden" name="cmd" value="_s-xclick">
-                          <input type="hidden" name="hosted_button_id" value="XJ8TEEBVKHULN">
-                          <input type="image" src="https://www.paypal.com/es_XC/MX/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
-                          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-                      </form>
+                     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+                        <input type="hidden" name="cmd" value="_s-xclick">
+                        <input type="hidden" name="hosted_button_id" value="TV3ASC5QWPWXQ">
+                        <input type="image" src="https://www.paypalobjects.com/en_US/MX/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                    </form>
+
                   </div>
           </div>
       </div>
